@@ -1,0 +1,5 @@
+rivaldo_browser-darwin-x64
+node_modules
+.idea
+browser/rivaldoStoreViewer/**/*.js
+!browser/rivaldoStoreViewer/index.js
