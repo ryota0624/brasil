@@ -1,0 +1,22 @@
+{
+  "name": "rivaldo_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-ts": "node_modules/typescript/bin/tsc ./browser/rivaldoStoreViewer/**/*.ts*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^7.0.15",
+    "@types/react": "^15.0.23",
+    "@types/react-dom": "^15.5.0",
+    "electron-packager": "^8.7.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "typescript": "^2.3.2"
+  }
+}
